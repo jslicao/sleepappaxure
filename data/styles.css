@@ -1,0 +1,178 @@
+﻿.ax_default {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#1E98D7;
+}
+._形状 {
+}
+._图片 {
+}
+._一级标题 {
+  font-family:"思源黑体 ExtraLight", "思源黑体", sans-serif;
+  font-weight:250;
+  font-style:normal;
+  font-size:32px;
+  letter-spacing:1px;
+  color:#DAD6CD;
+  text-align:center;
+  line-height:40px;
+}
+._二级标题 {
+  font-family:"思源黑体 ExtraLight", "思源黑体", sans-serif;
+  font-weight:250;
+  font-style:normal;
+  font-size:28px;
+  color:#DAD6CD;
+  text-align:left;
+  line-height:36px;
+}
+._三级标题 {
+  font-family:"思源黑体 Light", "思源黑体", sans-serif;
+  font-weight:300;
+  font-style:normal;
+  font-size:24px;
+  color:#DAD6CD;
+  text-align:left;
+  line-height:32px;
+}
+._四级标题 {
+  font-family:"思源黑体 Light", "思源黑体", sans-serif;
+  font-weight:300;
+  font-style:normal;
+  font-size:20px;
+  letter-spacing:1px;
+  color:#DAD6CD;
+  text-align:center;
+  line-height:28px;
+}
+._五级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:13px;
+  text-align:left;
+}
+._段落 {
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  font-family:"思源黑体", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(61, 61, 61, 0.8980392156862745);
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+._流程图形状 {
+}
+.snapshot {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.shape {
+}
+._表单提示文本 {
+  color:#999999;
+}
+._表单禁用 {
+}
+.icon {
+}
+.image {
+}
+.radio-check {
+}
+.radio-uncheck {
+  color:#333333;
+}
+.radio-label-check {
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:left;
+}
+.radio-label-uncheck {
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#6B6B6B;
+  text-align:left;
+}
+.checkbox-check {
+}
+.checkbox-label-check {
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:left;
+}
+.checkbox-uncheck {
+}
+.checkbox-label-uncheck {
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.box_1 {
+}
+.refs-design-apple {
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.refs-webm-wechat {
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+textarea, select, input, button, div, svg { outline: none; }
