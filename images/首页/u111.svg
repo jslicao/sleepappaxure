@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="16px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="100" y1="8" x2="0" y2="8" id="LinearGradient2760">
+      <stop id="Stop2761" stop-color="#1a1e27" offset="0" />
+      <stop id="Stop2762" stop-color="#1a1e27" stop-opacity="0" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip2763">
+      <path d="M 0 16  L 0 0  L 100 0  L 100 16  L 0 16  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -227 0 )">
+    <path d="M 0 16  L 0 0  L 100 0  L 100 16  L 0 16  Z " fill-rule="nonzero" fill="url(#LinearGradient2760)" stroke="none" transform="matrix(1 0 0 1 227 0 )" class="fill" />
+    <path d="M 0 16  L 0 0  L 100 0  L 100 16  L 0 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(36, 40, 48, 1)" fill="none" transform="matrix(1 0 0 1 227 0 )" class="stroke" mask="url(#Clip2763)" />
+  </g>
+</svg>
