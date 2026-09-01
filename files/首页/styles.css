@@ -898,7 +898,7 @@
 #u33 {
   border-width:0px;
   position:absolute;
-  left:20px;
+  left:22px;
   top:2px;
   width:16px;
   height:16px;
@@ -4399,7 +4399,7 @@
 #u104 {
   border-width:0px;
   position:absolute;
-  left:20px;
+  left:22px;
   top:2px;
   width:16px;
   height:16px;
@@ -9426,7 +9426,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:105px;
+  width:126px;
   height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -9440,9 +9440,9 @@
 #u252 {
   border-width:0px;
   position:absolute;
-  left:135px;
+  left:124px;
   top:30px;
-  width:105px;
+  width:126px;
   height:28px;
   display:flex;
   transition:none;
@@ -11178,9 +11178,9 @@
 #u283 {
   border-width:0px;
   position:absolute;
-  left:138px;
+  left:121px;
   top:139px;
-  width:99px;
+  width:132px;
   height:144px;
 }
 #u284 {
@@ -11196,7 +11196,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:99px;
+  width:132px;
   height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -11210,7 +11210,7 @@
   position:absolute;
   left:0px;
   top:104px;
-  width:99px;
+  width:132px;
   height:40px;
   display:flex;
   transition:none;
@@ -11232,7 +11232,7 @@
 #u286 {
   border-width:0px;
   position:absolute;
-  left:2px;
+  left:18px;
   top:0px;
   width:96px;
   height:96px;
@@ -11265,7 +11265,7 @@
   position:absolute;
   left:57px;
   top:732px;
-  width:267px;
+  width:281px;
   height:20px;
 }
 #u288 {
@@ -11277,7 +11277,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:267px;
+  width:281px;
   height:20px;
   background-image:none;
   border-radius:0px;
@@ -11298,7 +11298,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:243px;
+  width:257px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -11316,7 +11316,7 @@
   position:absolute;
   left:24px;
   top:0px;
-  width:243px;
+  width:257px;
   height:20px;
   display:flex;
   transition:none;
@@ -11537,7 +11537,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:267px;
+  width:281px;
   height:20px;
   background-image:none;
   border-radius:0px;
@@ -11558,7 +11558,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:243px;
+  width:257px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -11576,7 +11576,7 @@
   position:absolute;
   left:24px;
   top:0px;
-  width:243px;
+  width:257px;
   height:20px;
   display:flex;
   transition:none;
