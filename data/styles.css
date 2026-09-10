@@ -124,7 +124,7 @@
   color:#333333;
 }
 .radio-label-check {
-  font-family:"PingFang SC", sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -132,7 +132,7 @@
   text-align:left;
 }
 .radio-label-uncheck {
-  font-family:"PingFang SC", sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -142,7 +142,7 @@
 .checkbox-check {
 }
 .checkbox-label-check {
-  font-family:"PingFang SC", sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -152,7 +152,7 @@
 .checkbox-uncheck {
 }
 .checkbox-label-uncheck {
-  font-family:"PingFang SC", sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -162,12 +162,12 @@
 .box_1 {
 }
 .refs-design-apple {
-  font-family:"PingFang SC", sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
 }
 .refs-webm-wechat {
-  font-family:"PingFang SC", sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
 }
